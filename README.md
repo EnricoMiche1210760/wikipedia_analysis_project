@@ -24,7 +24,7 @@ Once computed the EDA, the second part of the project consists on create a class
 The classification is done through the Multinomian Naive Bayes algorithm.
 
 ## Dataset and environment
-Dataset used for this project can be found in data directory.<br>
+Dataset is available on https://proai-datasets.s3.eu-west-3.amazonaws.com/wikipedia.csv
 We run the project into Databricks 15.4 LTS with Apache Spark 3.5.0 and Scala 2.12. The project has been developed to be run into a free Workspace.
 
 ## Dependencies
